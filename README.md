@@ -1,1 +1,2 @@
-Johnson Chineme
+my first readme
+updated
